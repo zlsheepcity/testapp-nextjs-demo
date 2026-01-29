@@ -25,7 +25,7 @@ export const AsideNote = () => {
         </div>
         <Image
           className=""
-          src="/art/information.svg"
+          src="/testapp-nextjs-demo/art/information.svg"
           alt=":)"
           width={300}
           height={300}
@@ -74,7 +74,7 @@ export const AsideNoteOTP = () => {
         </div>
         <Image
           className=""
-          src="/art/notification.svg"
+          src="/testapp-nextjs-demo/art/notification.svg"
           alt=":)"
           width={300}
           height={300}

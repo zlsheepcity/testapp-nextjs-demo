@@ -5,7 +5,7 @@ export default function PageAbout() {
 
         <header className="flex gap-4 mb-8">
           <div className="max-w-xs text-2xl font-semibold leading-10 tracking-tight">
-            <a href="/" className="underline decoration-2">
+            <a href="/testapp-nextjs-demo" className="underline decoration-2">
               Home
             </a>
           </div>

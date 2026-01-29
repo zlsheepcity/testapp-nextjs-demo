@@ -15,7 +15,7 @@ export const PageRegistration:FC = () => {
 
         <header className="flex gap-4 mb-8">
           <div className="max-w-xs text-2xl font-semibold leading-10 tracking-tight">
-            <a href="/" className="underline decoration-2">
+            <a href="/testapp-nextjs-demo" className="underline decoration-2">
               Home
             </a>
           </div>
@@ -36,10 +36,10 @@ export const PageRegistration:FC = () => {
               Registration confirmed!
             </h2>
             <div className="flex gap-4 my-8">
-              <a href="/login" className="block p-2 rounded-md text-xl border-2 border-cyan-900 bg-cyan-900 hover:bg-cyan-800">
+              <a href="/testapp-nextjs-demo/login" className="block p-2 rounded-md text-xl border-2 border-cyan-900 bg-cyan-900 hover:bg-cyan-800">
                 Continue to login
               </a>
-              <a href="/registration" className="block p-2 rounded-md text-xl border-2 border-cyan-900 hover:bg-slate-800">
+              <a href="/testapp-nextjs-demo/registration" className="block p-2 rounded-md text-xl border-2 border-cyan-900 hover:bg-slate-800">
                 Try again
               </a>
             </div>

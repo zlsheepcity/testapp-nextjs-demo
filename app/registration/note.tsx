@@ -25,7 +25,7 @@ export const AsideNote = () => {
         </div>
         <Image
           className=""
-          src="/art/validation.svg"
+          src="/testapp-nextjs-demo/art/validation.svg"
           alt=":)"
           width={300}
           height={300}
