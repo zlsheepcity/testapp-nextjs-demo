@@ -21,13 +21,13 @@ export default function PageHome() {
                   border-[0.2em] border-white rounded-[1em]
                   text-black bg-blue-300 hover:bg-blue-400
                 "
-                href="/registration">
+                href="/testapp-nextjs-demo/registration">
                 <span>
                   Registration
                 </span>
                 <Image
                   className=""
-                  src="/art/registration.svg"
+                  src="/testapp-nextjs-demo/art/registration.svg"
                   alt=":)"
                   width={220}
                   height={220}
@@ -42,13 +42,13 @@ export default function PageHome() {
                   border-[0.2em] border-white rounded-[1em]
                   text-black bg-pink-300 hover:bg-pink-400
                 "
-                href="/login">
+                href="/testapp-nextjs-demo/login">
                 <span>
                   Log In
                 </span>
                 <Image
                   className=""
-                  src="/art/login.svg"
+                  src="/testapp-nextjs-demo/art/login.svg"
                   alt=":)"
                   width={220}
                   height={220}
@@ -63,13 +63,13 @@ export default function PageHome() {
                   border-[0.2em] border-white rounded-[1em]
                   text-black bg-amber-300 hover:bg-amber-400
                 "
-                href="/datatable">
+                href="/testapp-nextjs-demo/datatable">
                 <span>
                   Data Table
                 </span>
                 <Image
                   className=""
-                  src="/art/datatable.svg"
+                  src="/testapp-nextjs-demo/art/datatable.svg"
                   alt=":)"
                   width={220}
                   height={220}
@@ -84,13 +84,13 @@ export default function PageHome() {
                   border-[0.2em] border-white rounded-[1em]
                   text-black bg-emerald-300 hover:bg-emerald-400
                 "
-                href="/about">
+                href="/testapp-nextjs-demo/about">
                 <span>
                   About
                 </span>
                 <Image
                   className=""
-                  src="/art/about.svg"
+                  src="/testapp-nextjs-demo/art/about.svg"
                   alt=":)"
                   width={220}
                   height={220}
